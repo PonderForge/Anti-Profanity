@@ -1,5 +1,5 @@
 # Anti-Profanity
- A FastText Classifier for Profanity, for filtering games, forums, and any other user-based text input.\
+ A Highly advanced FastText Classifier/Detector AI for Profanity, for filtering games, forums, and any other user-based text input.\
  Built using Facebook's FastText vectorizer and text classifier, and using Swastik Gupta's tutorial on ["Profanity Detection with FastText"](https://towardsdatascience.com/profanity-detection-with-fasttext-ab2b3d63264f).
 ### What's in the Repo
 **preprocess.py** - This file is used to format test.csv into processed-train.txt using a CSV reader, and NLTK's Lemmatizer and Stop Word Library\
